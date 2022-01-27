@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544960163 source:c:\users\admin\desktop\student management system\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
